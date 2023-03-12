@@ -15,6 +15,6 @@ Latest TikTok Videos
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
 ![Skype](https://img.shields.io/badge/-Skype-090909?style=for-the-badge&logo=skype&logoColor=27A0D9)
 ![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)
-![Tik Tok](https://img.shields.io/badge/-Tik Tok-090909?style=for-the-badge&logo=TikTok&logoColor=EE1D52)
+![Tik Tok](https://img.shields.io/badge/-TikTok-090909?style=for-the-badge&logo=tiktok&logoColor=EE1D52)
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
