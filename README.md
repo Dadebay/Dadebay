@@ -2,8 +2,6 @@
 
 ## I'm Middle Flutter Developer and  TikToker 🤘😏
 
-### Latest TikTok Videos
-
 ### Languages and Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
@@ -18,3 +16,5 @@
 [![Tik Tok](https://img.shields.io/badge/-TikTok-090909?style=for-the-badge&logo=tiktok&logoColor=EE1D52)](https://www.tiktok.com/@tkmprogrammer?is_from_webapp=1&sender_device=pc)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dadebay-gurbanow-5717931b4/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurbanov Dadebay&show_icons=true)()
