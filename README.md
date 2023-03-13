@@ -17,4 +17,4 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)]()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dadebay-gurbanow-5717931b4/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dadebay&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dadebay&show_icons=true&theme=dark)
