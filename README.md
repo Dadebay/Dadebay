@@ -12,9 +12,9 @@ Latest TikTok Videos
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 ### Follow Me
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
-![Skype](https://img.shields.io/badge/-Skype-090909?style=for-the-badge&logo=skype&logoColor=27A0D9)
-![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)
-![Tik Tok](https://img.shields.io/badge/-TikTok-090909?style=for-the-badge&logo=tiktok&logoColor=EE1D52)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)(https://t.me/Gurbanov_D)
+![Skype](https://img.shields.io/badge/-Skype-090909?style=for-the-badge&logo=skype&logoColor=27A0D9)(live:.cid.6bfbc268707d0ac7)
+![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)(https://twitter.com/Gurbanov_)
+![Tik Tok](https://img.shields.io/badge/-TikTok-090909?style=for-the-badge&logo=tiktok&logoColor=EE1D52)(https://www.tiktok.com/@tkmprogrammer?is_from_webapp=1&sender_device=pc)
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)(https://www.linkedin.com/in/dadebay-gurbanow-5717931b4/)
