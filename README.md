@@ -42,7 +42,7 @@ I'm a passionate Flutter Developer and TikToker who loves exploring new technolo
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/Gurbanov_)
 [![TikTok](https://img.shields.io/badge/-TikTok-090909?style=for-the-badge&logo=tiktok&logoColor=EE1D52)](https://www.tiktok.com/@tkmprogrammer?is_from_webapp=1&sender_device=pc)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://instagram.com/g.dadebay)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](www.linkedin.com/in/gurbanovv)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/gurbanovv)
 
  - Feel free to connect with me! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
