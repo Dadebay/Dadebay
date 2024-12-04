@@ -6,7 +6,7 @@ I'm a passionate Flutter Developer and TikToker who loves exploring new technolo
 
 ### 🌟 About Me
 - 🌍 Based in Turkmenistan
-- 🎓 Studied Computer Science at Turkmen State Institute of Engineering and Technology
+- 🎓 Studied Computer Science at Turkmen State Institute of Engineering and Transport Communications of Turkmenistan
 - 🏆 Flutter Enthusiast since 2019
 - 🎥 Creating fun and educational content on TikTok
 
