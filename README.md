@@ -2,7 +2,7 @@
 
 # Gurbanov Dadebay
 
-### Flutter Developer building polished products for mobile, web & desktop
+### Flutter Developer · Mobile, Web & Desktop
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurbanovv)
 [![Google Play](https://img.shields.io/badge/20%2B_apps_on-Google_Play-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Gurbanow)
@@ -34,19 +34,38 @@ I am a Flutter developer focused on shipping fast, reliable and thoughtfully des
 
 ## Selected work
 
-| Product | What it does | Stack |
-| :-- | :-- | :-- |
-| [**Alybaba**](https://github.com/Dadebay/Alybaba_eCommerce) | Marketplace for products sourced from China | Flutter · e-commerce |
-| [**Jaytap / Gamysh**](https://github.com/Dadebay/Gamysh_Real_Estate_app) | Property discovery, filtering and listings | Flutter · real estate |
-| [**UCDAÝY**](https://github.com/Dadebay/Pubg_Tournaments_and_Selling_Accounts_app) | PUBG UC marketplace and tournament platform | Flutter · payments |
-| [**ÝAKA**](https://github.com/Dadebay/Turkmen_Collar_Selling_App) | Premium collar e-commerce experience | Flutter · commerce |
-| [**Stock Management**](https://github.com/Dadebay/Stock_managament_admin) | Seller inventory management and admin dashboard | Flutter · admin |
+<table>
+  <tr>
+    <td width="33.33%" valign="top">
+      <h3>🛍️ Aýterek</h3>
+      <p>A marketplace to buy, sell and connect through chat.</p>
+      <p><code>Flutter</code> <code>Firebase</code> <code>REST API</code></p>
+      <a href="https://play.google.com/store/search?q=ayterek&c=apps">View on Google Play →</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3>📚 elkitap</h3>
+      <p>A personal online library and e-book reading experience.</p>
+      <p><code>Flutter</code> <code>Firebase</code> <code>UI/UX</code></p>
+      <a href="https://play.google.com/store/apps/details?id=com.googadev.elkitap">View on Google Play →</a>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3>☁️ AK BULUT</h3>
+      <p>A modern e-commerce website built for the AkBulut brand.</p>
+      <p><code>Flutter Web</code> <code>E-commerce</code></p>
+      <a href="https://akbulut.com.tm/">Visit website →</a>
+    </td>
+  </tr>
+</table>
+
+### More projects
+
+[Jaytap / Gamysh](https://github.com/Dadebay/Gamysh_Real_Estate_app) · [UCDAÝY](https://github.com/Dadebay/Pubg_Tournaments_and_Selling_Accounts_app) · [ÝAKA](https://github.com/Dadebay/Turkmen_Collar_Selling_App) · [Stock Management](https://github.com/Dadebay/Stock_managament_admin)
 
 <details>
 <summary><b>More products I have worked on</b></summary>
 <br />
 
-**Food & retail:** Bamboo Restaurant, Nurana Bedew, Sharafyabi, AK BULUT  
+**Food & retail:** Bamboo Restaurant, Nurana Bedew, Sharafyabi  
 **Mobility & booking:** AbatTaxi / Abat Driver, Online Nobat  
 **Marketplace & lifestyle:** Aýterek, Atelýam, elkitap eBook Reader
 
@@ -60,14 +79,29 @@ I am a Flutter developer focused on shipping fast, reliable and thoughtfully des
 | Jun 2023 – May 2025 | Mobile App Developer · Remote | Softnova |
 | Aug 2020 – Jun 2023 | Mobile App Developer | Bilermen Nesil / Takyk Studio |
 
-## GitHub activity
+## GitHub highlights
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Production focused</h3>
+      <p>20+ published applications across commerce, mobility, booking and content products.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Product-minded engineering</h3>
+      <p>From a clear user experience to state management, APIs and app-store release.</p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dadebay&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="Dadebay's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadebay&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Dadebay's most used languages" />
+
+[![Explore repositories](https://img.shields.io/badge/Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dadebay?tab=repositories)
+[![Follow on GitHub](https://img.shields.io/badge/Follow_on_GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dadebay)
+
 </div>
 
-## Let’s connect
+## Let’s work together
 
 I’m open to remote Flutter opportunities and product collaborations.
 
