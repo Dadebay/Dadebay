@@ -2,14 +2,14 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗  █████╗ ██████╗ ███████╗██████╗  █████╗ ██╗   ██╗  ║
-║   ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝  ║
-║   ██║  ██║███████║██║  ██║█████╗  ██████╔╝███████║ ╚████╔╝   ║
-║   ██║  ██║██╔══██║██║  ██║██╔══╝  ██╔══██╗██╔══██║  ╚██╔╝    ║
-║   ██████╔╝██║  ██║██████╔╝███████╗██████╔╝██║  ██║   ██║     ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝   ╚═╝     ║
-║                                                               ║
+║                                                                 ║
+║   ██████╗  █████╗ ██████╗ ███████╗██████╗  █████╗ ██╗   ██╗    ║
+║   ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝    ║
+║   ██║  ██║███████║██║  ██║█████╗  ██████╔╝███████║ ╚████╔╝     ║
+║   ██║  ██║██╔══██║██║  ██║██╔══╝  ██╔══██╗██╔══██║  ╚██╔╝      ║
+║   ██████╔╝██║  ██║██████╔╝███████╗██████╔╝██║  ██║   ██║       ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝   ╚═╝       ║
+║                                                                 ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
@@ -17,7 +17,7 @@
 
 **`Flutter Developer · Mobile · Web · Desktop · Admin Dashboards`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;4%2B+Years+of+Experience;Mobile+%7C+Web+%7C+Desktop+%7C+Admin;Open+to+Remote+Work+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%9A%80;5%2B+Years+of+Experience;Mobile+%7C+Web+%7C+Desktop+%7C+Admin;20%2B+Apps+Shipped+to+Production;Open+to+Remote+Work+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Dadebay&color=6C63FF&style=flat-square&label=PROFILE+VIEWS" />
 
@@ -29,9 +29,9 @@
 
 ```dart
 class GurbanovDadebay extends FlutterDeveloper {
-  
+
   final String location    = "Riga, Latvia 🇱🇻";
-  final String experience  = "4+ years";
+  final String experience  = "5+ years";
   final String focus       = "Mobile · Web · Desktop · Admin Dashboard";
   final bool   openToWork  = true;
   final String timezone    = "EU timezone";
@@ -48,6 +48,13 @@ class GurbanovDadebay extends FlutterDeveloper {
   void passion() => print("Building fast, beautiful, user-friendly apps 🚀");
 }
 ```
+
+---
+
+## 🎓 Education
+
+**Turkmen State Institute of Engineering and Transport Communications**
+Computer Science · Sep 2018 – May 2023 · Ashgabat, Turkmenistan
 
 ---
 
@@ -91,7 +98,7 @@ class GurbanovDadebay extends FlutterDeveloper {
 |--------|------|---------|----------|
 | 🟢 Aug 2025 – Mar 2026 | **Senior Software Engineer** | **AkBulut HJ** | Ashgabat, Turkmenistan |
 | 🔵 Jun 2023 – May 2025 | **Mobile App Developer** (Remote) | **Softnova** | Remote 🌍 |
-| ⚪ Aug 2020 – Jun 2023 | **Mobile App Developer** | **Bilermen Nesil Takyk Studio** | Ashgabat, Turkmenistan |
+| ⚪ Aug 2020 – Jun 2023 | **Mobile App Developer** | **Bilermen Nesil – Takyk Studio** | Ashgabat, Turkmenistan |
 
 ---
 
@@ -101,7 +108,7 @@ class GurbanovDadebay extends FlutterDeveloper {
 <tr>
 <td width="50%" valign="top">
 
-### 📋 [Aýterek](https://github.com/Dadebay)
+### 📋 Aýterek
 > Classifieds & Marketplace Platform
 
 Free platform for buying, selling and finding anything — with easy search and built-in chat.
@@ -111,7 +118,7 @@ Free platform for buying, selling and finding anything — with easy search and 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [elkitap – eBook Reader](https://github.com/Dadebay)
+### 📚 elkitap – eBook Reader
 > Personal Online Library App
 
 A convenient e-book reader. Your personal online library, always with you.
@@ -132,16 +139,26 @@ A convenient e-book reader. Your personal online library, always with you.
 |-----|----------|-------------|
 | 🛍️ **[Alybaba](https://github.com/Dadebay/Alybaba_eCommerce)** | eCommerce · Dropshipping | Virtual marketplace with products from China — home, garden, car, clothing & more |
 | 🏠 **[Jaytap / Gamysh](https://github.com/Dadebay/Gamysh_Real_Estate_app)** | Real Estate | Buy & sell real estate online with filters and listings |
-| 🎮 **[UCDAYY](https://github.com/Dadebay/Pubg_Tournaments_and_Selling_Accounts_app)** | Gaming · UC Selling | PUBG UC selling platform + free tournament entry |
-| 🧥 **[YAKA](https://github.com/Dadebay/Turkmen_Collar_Selling_App)** | eCommerce | Premium collar marketplace with top brand products |
+| 🎮 **[UCDAÝY](https://github.com/Dadebay/Pubg_Tournaments_and_Selling_Accounts_app)** | Gaming · UC Selling | PUBG UC selling platform + free tournament entry |
+| 🧥 **[ÝAKA](https://github.com/Dadebay/Turkmen_Collar_Selling_App)** | eCommerce | Premium collar marketplace with top brand products |
 | 💄 **[Sharafyabi](https://github.com/Dadebay/SharafYabi_Cosmetics_eCommerce)** | Cosmetics · eCommerce | Online cosmetics store with affordable prices |
 | 📊 **[Stock Management](https://github.com/Dadebay/Stock_managament_admin)** | Admin Dashboard | Full stock management app + admin panel for sellers |
 | 🍣 **Bamboo Restaurant** | Food & Beverage | Online sushi restaurant ordering app |
-| ✂️ **Atelyam** | Fashion | Tailors and fashion marketplace app |
+| ✂️ **Atelýam** | Fashion | Tailors and fashion marketplace app |
 | 💊 **Nurana Bedew** | eCommerce · Pharmacy | Online pharmacy and health products store |
 | ☁️ **AK BULUT** | eCommerce | Full eCommerce website built with Flutter Web |
+| 🚕 **AbatTaxi / Abat Driver** | Transport | Ride-hailing rider & driver apps |
+| 📅 **Online Nobat** | Booking | Online appointment / queue booking app |
 
 </div>
+
+<details>
+<summary>📱 See more published apps on Google Play (20+ apps across two publishing accounts)</summary>
+<br>
+
+Рязанская молочная продукция · Арсенал · Ter Market · Белая корова · Очаг · Мир индейки · Atlas · Вот такие пироги · ЕТТИ · Durum Kamchatka · Erk Trading · Модный доктор · ProArt — творческая студия · Dowletli Zaman Auto · Pulse Sports · Dermanym
+
+</details>
 
 ---
 
@@ -185,9 +202,13 @@ A convenient e-book reader. Your personal online library, always with you.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurbanovv)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dadebay)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Gurbanow)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gurbanov_D)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Gurbanov_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/g.dadebay)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadebaygurbanow333@gmail.com)
+
+📦 Published apps: [play.google.com/…/Gurbanow](https://play.google.com/store/apps/developer?id=Gurbanow) · [play.google.com/…/Bilermen+Nesil](https://play.google.com/store/apps/developer?id=Bilermen+Nesil)
 
 </div>
 
