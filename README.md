@@ -140,34 +140,81 @@ I'm a Flutter developer focused on shipping fast, reliable and thoughtfully desi
 
 <br />
 
-## 📊 GitHub Stats
+## 📊 By the Numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dadebay&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadebay&layout=compact&theme=radical&hide_border=true" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 20+
+Apps on Google Play
+
+</td>
+<td align="center" width="25%">
+
+### 5+
+Years of Experience
+
+</td>
+<td align="center" width="25%">
+
+### 3
+Companies
+
+</td>
+<td align="center" width="25%">
+
+### 4
+Languages Spoken
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dadebay&theme=radical&hide_border=true" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:1a1a1a&height=2&section=header" width="100%" />
 </div>
 
 <br />
 
 ## 🤝 Let's Work Together
 
-I'm open to remote Flutter opportunities and product collaborations.
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurbanovv)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gurbanov_D)
-[![Google Play](https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Gurbanow)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dadebaygurbanow333@gmail.com)
+**I'm open to remote Flutter opportunities and product collaborations.**
 
 <br />
 
-<sub>🇹🇲 Turkmen · 🇹🇷 Turkish · 🇬🇧 English · 🇷🇺 Russian</sub>
+<a href="https://www.linkedin.com/in/gurbanovv">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://t.me/Gurbanov_D">
+<img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://play.google.com/store/apps/developer?id=Gurbanow">
+<img src="https://img.shields.io/badge/Google_Play-View_Apps-34A853?style=for-the-badge&logo=google-play&logoColor=white&labelColor=000000" />
+</a>
+<a href="mailto:dadebaygurbanow333@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+</a>
 
+<br /><br />
+
+<img src="https://img.shields.io/badge/🇹🇲_Turkmen-black?style=flat-square" />
+<img src="https://img.shields.io/badge/🇹🇷_Turkish-black?style=flat-square" />
+<img src="https://img.shields.io/badge/🇬🇧_English-black?style=flat-square" />
+<img src="https://img.shields.io/badge/🇷🇺_Russian-black?style=flat-square" />
+
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a1a&height=100&section=footer" width="100%" />
 </div>
