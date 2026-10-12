@@ -15,27 +15,25 @@
   <a href="https://play.google.com/store/apps/details?id=tm.com.ayterek"><img src="assets/card-ayterek.svg" width="49%" alt="Aýterek: classifieds marketplace with built-in chat" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.googadev.elkitap"><img src="assets/card-elkitap.svg" width="49%" alt="elkitap: e-book reader" /></a>
   <a href="https://github.com/Dadebay/my_mac_utils"><img src="assets/card-glassdo.svg" width="49%" alt="GlassDo: native macOS control center" /></a>
-  <a href="https://github.com/Dadebay/Food_delivery_alow_alow"><img src="assets/card-naharym.svg" width="49%" alt="Naharym: food delivery suite" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.gurbanov.alowalow"><img src="assets/card-a7tagam.svg" width="49%" alt="A7-TAGAM: food delivery app, 4.9 stars on Google Play" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.abat"><img src="assets/card-abat.svg" width="49%" alt="Abat: ride-hailing and courier app in React Native" /></a>
   <a href="https://play.google.com/store/apps/details?id=tm.com.atlas"><img src="assets/card-atlas.svg" width="49%" alt="Atlas: e-commerce app for atlas.com.tm" /></a>
 </p>
 
 <details>
-<summary><b>&nbsp;+ 10 more shipped products</b></summary>
+<summary><b>&nbsp;+ 8 more shipped products</b></summary>
 <br />
 
-| Product | What it is | Where |
-| :-- | :-- | :-- |
-| **ÝAKA** | Marketplace for Turkmen collars and tailoring services | [Google Play](https://play.google.com/store/apps/details?id=com.bilermennesil.yaka) · [code](https://github.com/Dadebay/Turkmen_Collar_Selling_App) |
-| **Sharafyabi** | Cosmetics e-commerce | [Google Play](https://play.google.com/store/apps/details?id=com.bilermennesil.sharafyabi) · [code](https://github.com/Dadebay/SharafYabi_Cosmetics_eCommerce) |
-| **Aýterek Master** | Job board for plumbers, tutors, couriers and other pros | [Google Play](https://play.google.com/store/apps/details?id=com.ayterek.ussalar) · [code](https://github.com/Dadebay/Gyzyl_eller) |
-| **UCDAÝY** | PUBG UC store with free tournaments | [code](https://github.com/Dadebay/Pubg_Tournaments_and_Selling_Accounts_app) |
-| **Jaytap** | Real estate listings | [code](https://github.com/Dadebay/JayTap) |
-| **Atelýam** | Tailors and fashion, app + Node backend | [code](https://github.com/Dadebay/Atelyam) |
-| **Pulse** | Real-time Turkish football feed from X | [code](https://github.com/Dadebay/X_AI_uygulama) |
-| **Stock Management** | Stock app + Flutter web admin for small companies | [app](https://github.com/Dadebay/Stock_managament_app) · [admin](https://github.com/Dadebay/Stock_managament_admin) |
-| **Nurana Bedew** | Online pharmacy | [code](https://github.com/Dadebay/Nurana-Bedew-Online-Pharmacy) |
-| **AK BULUT** | E-commerce website for the AkBulut brand | [akbulut.com.tm](https://akbulut.com.tm/) |
+| Product | What it is | Downloads | Get it |
+| :-- | :-- | :-- | :-- |
+| **ÝAKA** | Marketplace for Turkmen collars and tailoring | 50K+ | [Google Play](https://play.google.com/store/apps/details?id=com.gurbanov.yaka) · [App Store](https://apps.apple.com/app/id6755652803) |
+| **UC DAÝY** | PUBG UC store with free tournaments | 10K+ | [Google Play](https://play.google.com/store/apps/details?id=com.gurbanov.ucdayy) · [App Store](https://apps.apple.com/app/id6737436233) |
+| **Alybaba** | E-commerce and dropshipping | 10K+ | [Google Play](https://play.google.com/store/apps/details?id=com.gurbanow.alybaba) · [App Store](https://apps.apple.com/app/id6448243381) |
+| **Aýterek Master** | Job board for plumbers, tutors, couriers and other pros | 1K+ | [Google Play](https://play.google.com/store/apps/details?id=com.ayterek.ussalar) · [App Store](https://apps.apple.com/app/id6768311434) |
+| **Jaytap** | Real estate listings | 1K+ | [Google Play](https://play.google.com/store/apps/details?id=com.gurbanov.jaytap) · [App Store](https://apps.apple.com/app/id6751713059) |
+| **Aýkitap** | Turkmen-language e-book platform (case file below) | 100+ | [Google Play](https://play.google.com/store/apps/details?id=com.aykitap.aykitap) · [App Store](https://apps.apple.com/app/id6791177731) |
+| **AK BULUT** | E-commerce website and app for the AkBulut brand | 100+ | [akbulut.com.tm](https://akbulut.com.tm/en) · [Google Play](https://play.google.com/store/apps/details?id=com.gurbanov.akbulut) |
+| **Pulse** | Real-time Turkish football feed from X | — | [code](https://github.com/Dadebay/X_AI_uygulama) |
 
 </details>
 
@@ -49,6 +47,8 @@
 <img src="assets/case-aykitap.svg" width="100%" alt="Aýkitap architecture: a Flutter reader app, a Next.js site, a React admin panel and a Flutter SMS bridge, all talking to a NestJS API on PostgreSQL, Redis, RabbitMQ and MinIO" />
 
 <p align="center"><sub>
+<a href="https://play.google.com/store/apps/details?id=com.aykitap.aykitap"><b>Google Play</b></a> ◆
+<a href="https://apps.apple.com/app/id6791177731"><b>App Store</b></a> ◆
 <a href="https://github.com/Dadebay/AyKitap">mobile app</a> ◆
 <a href="https://github.com/Dadebay/AyKitap_Backend">backend</a> ◆
 <a href="https://github.com/Dadebay/AyKitap_Admin_panel">admin panel</a> ◆
@@ -63,12 +63,12 @@
   <img src="assets/h-bench-light.svg" width="100%" alt="03 — On the bench right now" />
 </picture>
 
-<img src="assets/bench.svg" width="100%" alt="Currently building: GlassDo (macOS), HappRouter (macOS + OpenWrt), Naharym (food delivery), Load Control (aviation weight and balance)" />
+<img src="assets/bench.svg" width="100%" alt="Currently building: GlassDo (macOS), HappRouter (macOS + OpenWrt), A7-TAGAM (food delivery), Load Control (aviation weight and balance)" />
 
 <p align="center"><sub>
 <a href="https://github.com/Dadebay/my_mac_utils">GlassDo</a> ◆
 <a href="https://github.com/Dadebay/Mi-router-Happ-vpn-integration">HappRouter</a> ◆
-<a href="https://github.com/Dadebay/Food_delivery_alow_alow">Naharym</a> ◆
+<a href="https://play.google.com/store/apps/details?id=com.gurbanov.alowalow">A7-TAGAM</a> ◆
 <a href="https://github.com/Dadebay/Plane_track_loads">Load Control</a>
 </sub></p>
 
